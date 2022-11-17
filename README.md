@@ -7,8 +7,8 @@ O projeto será desenvolvido em diversas fases. Em cada fase haverá a entrega e
 A fase a que se refere a presente entrega é relativa à **turma 2022.2**.
 
 ## 2. Objetivos do projeto
-1. Estabelecer as [**convenções léxicas**]() de uma linguagem de programação - **TINY adaptada** -, sedimentando os conceitos discutidos na disciplina.
-2. Descrever a [**gramática**]() da linguagem TINY adaptada, utilizando as formas BNF e EBNF, sedimentando os conceitos discutidos na disciplina.  
+1. Estabelecer as [**convenções léxicas**](../regrasLexicas_Gramatica.md) de uma linguagem de programação - **TINY adaptada** -, sedimentando os conceitos discutidos na disciplina.
+2. Descrever a [**gramática**](../regrasLexicas_Gramatica.md) da linguagem TINY adaptada, utilizando as formas BNF e EBNF, sedimentando os conceitos discutidos na disciplina.  
 3. Desenvolver **programa de varredura (analisador léxico)** utilizando linguagem de programação C.
 4. Desenvolver **analisador sintático** utilizando a **técnica de algoritmo recursivo descendente**.
 
