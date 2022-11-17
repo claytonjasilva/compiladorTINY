@@ -13,5 +13,14 @@ A fase a que se refere a presente entrega é relativa à **turma 2022.2**.
 4. Desenvolver **analisador sintático** utilizando a **técnica de algoritmo recursivo descendente**.
 
 ## 3. Referência primária
-Foram utilizadas algumas referências na apresentação da disciplina. Os códigos forma inspirados por:  
+Foram utilizadas algumas referências na apresentação da disciplina. A referência primária para a produção dos códigos assim como para a criação da linguagem está disponível em:  
 **Louden, Kenneth C; COMPILADORES princípios e práticas, Thomson, 1997.**
+
+## 4. Autores
+- Orientação: Prof MS Clayton Jones Alves da Silva
+- Equipe:  
+  - DANIEL CARLIER  
+  - GUSTAVO MACHADO BRAGA  
+  - HENRIQUE JOSÉ SARTORI FILHO  
+  - JOÃO PEDRO DA SILVEIRA MARTINEZ  
+  - PHILLIPE SANTIAGO ROSSO DI SAN SECONDO  
