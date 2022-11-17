@@ -40,6 +40,8 @@ São cercados pela notação usual de C /*...*/. Os comentários podem ser
 colocados em qualquer lugar que possa ser ocupado por um espaço em branco
 e só podem incluir uma linha. Comentários não podem ser aninhados.  
 
+### 5. [NFA](https://github.com/claytonjasilva/compiladorTINY/blob/main/grupoA/nfa.jpeg)
+
 ##
 
 # **G͟͟͟R͟͟͟A͟͟͟M͟͟͟Á͟͟͟T͟͟͟I͟͟͟C͟͟͟A͟͟͟ D͟͟͟A͟͟͟ C͟͟͟--**
